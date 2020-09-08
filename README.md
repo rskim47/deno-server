@@ -42,3 +42,4 @@ DELETE   /api/v1/products/:id
 **Recommendations**
 
 * *deno vs. code plugin* > helps eliminate irrelevant errors (e.g. calling an await function outside an async function, calling libary URLs etc.) 
+* Make sure to restart your server with changes. Hope you're not too spoiled by nodemon like me. 😊
