@@ -5,7 +5,9 @@ Basic CRUD Operation with Deno
 * Allows simple CRUD through REST APIs 
 * All files in typescript 
 
-* Instructions *
+**Running Instructions**
 
-1. deno run --allow-net server.ts
+```
+deno run --allow-net server.ts
+```
 
