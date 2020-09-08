@@ -8,6 +8,7 @@ Basic CRUD Operation with Deno
 **Running**
 
 ```
+brew install deno (mac)
 deno run --allow-net server.ts
 ```
 **Routes**
