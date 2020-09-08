@@ -21,4 +21,4 @@ DELETE   /api/v1/products/:id
 ```
 **Recommendations**
 
-* deno vs. code plugin > helps eliminate irrelevant errors (e.g. calling an await function outside an async function, calling libary URLs etc.) 
+* *deno vs. code plugin* > helps eliminate irrelevant errors (e.g. calling an await function outside an async function, calling libary URLs etc.) 
